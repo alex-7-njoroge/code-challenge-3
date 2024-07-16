@@ -1,0 +1,15 @@
+*{
+   margin:0; 
+   padding:0;
+   list-style: none;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   box-sizing: border-box;
+}
+body{
+    display: flex;
+   
+}
+.series img{
+   
+   
+}
